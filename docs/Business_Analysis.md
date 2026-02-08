@@ -46,12 +46,12 @@ This assignment should take about 4-6 hours.
 
 ## Read (seriously, and take notes)
 
-SWEBOKwiki Business or Mission Analysis
+[SWEBOKwiki Business or Mission Analysis](https://sebokwiki.org/wiki/Business_or_Mission_Analysis)
 
 29148-2018 6.2 Business or mission analysis process
 
-The Business Analysis Process: 8 Steps to Being an Effective Business Analyst (through step 4)
-
+[The Business Analysis Process: 8 Steps to Being an Effective Business Analyst (through step 4)
+](https://www.bridging-the-gap.com/business-analysis-process/)
 Research / Information Literacy
 
 "Software Requirements" Weigers book Ch. 4 The business analyst
