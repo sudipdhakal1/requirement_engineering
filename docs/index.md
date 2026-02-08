@@ -1,3 +1,17 @@
+# CEN 3073 – Requirements Engineering & Analysis
+
+Instructor: Sudip Dhakal  
+Florida Gulf Coast University
+
+---
+
+## Course Assignments
+
+- [Assignment 1 – Business or Mission Analysis](index.md)
+- [Assignment 2 – Define the Problem](Business_Analysis_Describe_A_Problem.md)
+- [Assignment 3 – Characterize the Solution Space](Business_Analysis_Characterize_Solution_Space.md)
+- [Assignment 4 – Manage the Business Analysis (Jira)](Business_Analysis_Manage_JIRA_CONFLUENCE.md)
+
 # Assignment 1 
 ## Prepare for and Perform Business Analysis
 
