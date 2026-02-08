@@ -43,7 +43,7 @@ MITRE Systems Engineering Guide – Concept Development pps 275–300
 
 "Software Requirements" Weigers book Ch. 5 Establishing the business requirements
 
-System Definition Document / BRS page on the course web site
+[System Definition Document / BRS](System_Definition_Document_BRS.md)
 
 ---
 
