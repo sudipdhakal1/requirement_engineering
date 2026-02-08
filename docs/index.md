@@ -15,7 +15,7 @@ The website supports students through a structured, phase-driven project that cu
 - [Part 3 – Characterize the Solution Space](Business_Analysis_Characterize_Solution_Space.md)
 - [Part 4 – Manage the Business Analysis (Jira)](Business_Analysis_Manage_JIRA_CONFLUENCE.md)
 
-
+---
 ## 📌 Course Focus
 
 Students learn how to:
