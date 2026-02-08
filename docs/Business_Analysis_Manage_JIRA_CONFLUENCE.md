@@ -32,11 +32,11 @@ Complete Business Analysis Report
 
 29148-2018 6.2.3.6
 
-OKRs: goal setting that focuses on outcomes
+[OKRs: goal setting that focuses on outcomes](https://www.atlassian.com/agile/agile-at-scale/okr)
 
-Business Rules: An Agile Introduction
+[Business Rules: An Agile Introduction](https://agilemodeling.com/artifacts/businessRule.htm)
 
-Jira page on course web site
+[Jira page on course web site](https://sites.google.com/site/profvanselow/swebok/software-requirements-ch-1/7-8-management-and-tools/jira)
 
 ---
 
@@ -202,7 +202,7 @@ While logged in to Atlassian, go to:
 
 https://admin.atlassian.com/
 
-Invite **profvanselow@gmail.com** as a team member so I can access your site for grading.
+Invite **soodepdhakal7@gmail.com** as a team member so I can access your site for grading.
 
 You should only need to do this once but might need to do it for Jira and Confluence.
 
