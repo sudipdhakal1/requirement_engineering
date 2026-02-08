@@ -8,6 +8,13 @@ The course emphasizes a **standards-based, industry-aligned approach** to requir
 The website supports students through a structured, phase-driven project that culminates in the delivery of professional requirements artifacts.
 
 ---
+## Assignment 1 – Business Analysis
+
+- [Part 1 – Prepare for and Perform Business Analysis](Business_Analysis.md)
+- [Part 2 – Define the Problem](Business_Analysis_Describe_A_Problem.md)
+- [Part 3 – Characterize the Solution Space](Business_Analysis_Characterize_Solution_Space.md)
+- [Part 4 – Manage the Business Analysis (Jira)](Business_Analysis_Manage_JIRA_CONFLUENCE.md)
+
 
 ## 📌 Course Focus
 
