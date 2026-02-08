@@ -1,4 +1,4 @@
-# Assignment 1 – Activity 6.2.3.2  
+# Assignment 1 
 ## Prepare for and Perform Business Analysis
 
 **Research business or organization independently through research / information literacy**
